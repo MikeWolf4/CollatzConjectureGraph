@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CollatzConjectureGraph/static/css/main.fffa96a5.chunk.css",
+    "main.js": "/CollatzConjectureGraph/static/js/main.7e83197b.chunk.js",
+    "main.js.map": "/CollatzConjectureGraph/static/js/main.7e83197b.chunk.js.map",
+    "runtime-main.js": "/CollatzConjectureGraph/static/js/runtime-main.d9316942.js",
+    "runtime-main.js.map": "/CollatzConjectureGraph/static/js/runtime-main.d9316942.js.map",
+    "static/js/2.76c0612e.chunk.js": "/CollatzConjectureGraph/static/js/2.76c0612e.chunk.js",
+    "static/js/2.76c0612e.chunk.js.map": "/CollatzConjectureGraph/static/js/2.76c0612e.chunk.js.map",
+    "static/js/3.2ee00688.chunk.js": "/CollatzConjectureGraph/static/js/3.2ee00688.chunk.js",
+    "static/js/3.2ee00688.chunk.js.map": "/CollatzConjectureGraph/static/js/3.2ee00688.chunk.js.map",
+    "index.html": "/CollatzConjectureGraph/index.html",
+    "static/css/main.fffa96a5.chunk.css.map": "/CollatzConjectureGraph/static/css/main.fffa96a5.chunk.css.map",
+    "static/js/2.76c0612e.chunk.js.LICENSE.txt": "/CollatzConjectureGraph/static/js/2.76c0612e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CollatzConjectureGraph/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9316942.js",
+    "static/js/2.76c0612e.chunk.js",
+    "static/css/main.fffa96a5.chunk.css",
+    "static/js/main.7e83197b.chunk.js"
+  ]
+}
